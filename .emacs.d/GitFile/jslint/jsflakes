@@ -1,0 +1,2 @@
+#!/bin/bash
+java org.mozilla.javascript.tools.shell.Main ~/.emacs.d/GitFile/jslint/jslint.js $1

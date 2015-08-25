@@ -1,0 +1,6 @@
+;;; .emms-cache -*- mode: emacs-lisp; coding: utf-8; -*-
+(puthash "d:/Downloads/Video/The Very Best Of Lobo  (Full Album).mp4" '(*track* (type . file) (name . "d:/Downloads/Video/The Very Best Of Lobo  (Full Album).mp4") (metadata) (info-mtime 21914 29745 0 0)) emms-cache-db)
+(puthash "d:/Downloads/Music/02.mp3" '(*track* (type . file) (name . "d:/Downloads/Music/02.mp3") (metadata) (info-mtime 20858 17226 0 0)) emms-cache-db)
+(puthash "e:/SOFTS/emacs-24.5-bin-i686-mingw32/bin/02.mp3" '(*track* (type . file) (name . "e:/SOFTS/emacs-24.5-bin-i686-mingw32/bin/02.mp3") (metadata) (info-mtime 20858 17226 0 0)) emms-cache-db)
+(puthash "e:/SOFTS/emacs-24.5-bin-i686-mingw32/bin/bg.mp3" '(*track* (type . file) (name . "e:/SOFTS/emacs-24.5-bin-i686-mingw32/bin/bg.mp3") (info-mtime 21723 24541 0 0) (metadata)) emms-cache-db)
+(puthash "e:/SOFTS/emacs-24.5-bin-i686-mingw32/bin/lobo.mp4" '(*track* (type . file) (name . "e:/SOFTS/emacs-24.5-bin-i686-mingw32/bin/lobo.mp4") (metadata) (info-mtime 21914 29745 0 0)) emms-cache-db)
